@@ -1,1 +1,1 @@
-# Polygon2Mask-Converter
+# Polygon2Mask

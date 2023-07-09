@@ -1,2 +1,2 @@
 # Polygon2Mask 
-Python Script to Convert Polygon Annotations to Bitmap masks
+Python Script to Convert Polygon Annotations to Bitmap masks 
